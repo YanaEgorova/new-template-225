@@ -55,7 +55,7 @@
   margin-bottom: 2rem;
 }
 
-
+.footer a, .footer span, .footer p {color: #fff;}
 @media screen and (min-width: 1440px)  {
  
   .footer__top-block {
